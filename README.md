@@ -1,1 +1,1 @@
-# Lecture-notes---Cloud-computing
+# University-AI-NotebookLM-Demo
