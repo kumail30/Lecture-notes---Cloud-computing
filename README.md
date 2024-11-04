@@ -22,6 +22,10 @@ This repository contains a practical demonstration and evaluation of NotebookLM'
   - ![QNA Demo](https://github.com/kumail30/Lecture-notes---Cloud-computing/blob/main/QnA-demo/QnA%202.jpeg)
 - **Contextual Search Demo**: Showcases how NotebookLM retrieves information contextually.
   - [View Contextual Search Demo](./contextual-search-demo)
+    ** "What advancements made cloud computing possible?"
+  -  ![ContextualDemo](https://github.com/kumail30/Lecture-notes---Cloud-computing/blob/main/contextual-search-demo/Contextual%20Demo.jpeg)
+    **"List the types of services offered in cloud computing."
+  -  ![ContextualDemo](https://github.com/kumail30/Lecture-notes---Cloud-computing/blob/main/contextual-search-demo/Contextual%20demo%202.jpeg)
 - **Study Guide Demo**: A study guide generated from course materials.
   - [View Study Guide Demo](./study-guide-demo)
 
