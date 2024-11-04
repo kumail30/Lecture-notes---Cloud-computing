@@ -18,6 +18,8 @@ This repository contains a practical demonstration and evaluation of NotebookLM'
   - [View QnA Demo](./QnA-demo)
   - **What is cloud computing, according to the article?
   - ![QNA Demo](https://github.com/kumail30/Lecture-notes---Cloud-computing/blob/main/QnA-demo/QNA%201.jpeg)
+  - **What are the main advantages of cloud computing mentioned in the article?
+  - ![QNA Demo](https://github.com/kumail30/Lecture-notes---Cloud-computing/blob/main/QnA-demo/QnA%202.jpeg)
 - **Contextual Search Demo**: Showcases how NotebookLM retrieves information contextually.
   - [View Contextual Search Demo](./contextual-search-demo)
 - **Study Guide Demo**: A study guide generated from course materials.
