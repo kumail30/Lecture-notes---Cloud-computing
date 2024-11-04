@@ -1,5 +1,4 @@
 # NotebookLM Evaluation for University Use
-# Open Notebook
 
 An open source, privacy-focused alternative to Google's Notebook LM. Why give Google more of our data when we can take control of our own research workflows?
 
